@@ -1,6 +1,6 @@
 int OUTPUT_PIN = 13;
 
-int UNIT_OF_TIME = 500; // 1 second
+int UNIT_OF_TIME = 500; // 0.5 seconds
 
 int DOT_TIME = UNIT_OF_TIME;
 int DASH_TIME = 3 * UNIT_OF_TIME;
